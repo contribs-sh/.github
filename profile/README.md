@@ -11,6 +11,6 @@ npx contribs.sh init
 npx contribs.sh banner
 ```
 
-![Example X banner](https://raw.githubusercontent.com/contribs-sh/contribs.sh/main/assets/hero-x.png)
+![Example X banner](https://raw.githubusercontent.com/contribs-sh/contribs/main/assets/hero-x.png)
 
-→ [contribs-sh/contribs.sh](https://github.com/contribs-sh/contribs.sh) · [npm](https://www.npmjs.com/package/contribs.sh) · [contribs.sh](https://contribs.sh)
+→ [contribs-sh/contribs](https://github.com/contribs-sh/contribs) · [npm](https://www.npmjs.com/package/contribs.sh) · [contribs.sh](https://contribs.sh)
